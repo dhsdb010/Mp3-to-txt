@@ -3,9 +3,6 @@
 #### Description:
 
 ---
-Sure! Here's a more detailed version of your description:
-
----
 
 **What will my software do?**
 
